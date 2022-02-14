@@ -1,1 +1,1 @@
-# issue_template
+# issue_template_sample
